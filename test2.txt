@@ -1,3 +1,0 @@
-cluster 2 is started...
-
-no more changes
